@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Oswald', sans-serif;
+    min-height: 50vh;
+    padding-top: 50px;
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+    align-items: center;
+  }
+  .counter {
+    width: 350px;
+    height: 60px;
+    display: flex;
+    flex: 1;
+    margin-bottom: 15px;
+    text-align: center;
+    align-items: baseline;
+    background: rgb(248, 174, 0);
+  }
+  .counter > * {
+    height: 100%;
+    flex: 1;
+    font-size: 32px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .head-counter h1{
+    margin-bottom: 20px;
+  }
+  .head-counter button{
+    margin-bottom: 20px;
+  }
+    
+
+  button {
+    font-family: 'Oswald', sans-serif;
+  }
+ 
+  .btn-rem {
+    background-color: rgb(249, 79, 6);
+    
+  }
+
+  .btn-add {
+    font-size: 20px;
+    background-color: lightslategray;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: auto;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
